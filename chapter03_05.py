@@ -101,6 +101,7 @@ print('a - ', list(a.items()))
 print('b - ', list(b.items()))
 
 print()
+
 print(a)
 
 print('a - ', a.pop('name'))
