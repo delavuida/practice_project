@@ -40,3 +40,5 @@ print()
 
 # 예제5
 print("FisrtName - {0}, LastName - {1}".format(input("Enter first name :"), input("Enter second name :")))
+
+print()
