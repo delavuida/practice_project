@@ -1,2 +1,2 @@
 # practice_project
-practice
+practice python
