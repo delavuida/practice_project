@@ -2,7 +2,17 @@
 # 파이썬 기초
 # 파이썬 기본 출력
 # 참초 : https://www.python-course.eu/python3_formatted_output.php
+"""
+참고 : Escape 코드
 
+\n : 개행
+\t : 탭
+\\ : 문자
+\' : 문자
+\" : 문자
+\000 : 널 문자
+
+"""
 print('python start!')
 print("python start!")
 print('''python start!''')
